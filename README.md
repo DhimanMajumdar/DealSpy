@@ -1,4 +1,4 @@
-# DealDrop - Smart Product Price Tracker
+# DealSpy - Smart Product Price Tracker
 ### Check out live here - https://dodealspy.vercel.app/
 
 
