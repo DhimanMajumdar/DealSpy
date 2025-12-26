@@ -1,6 +1,8 @@
 # DealSpy - Smart Product Price Tracker
 ### Check out live here - https://dodealspy.vercel.app/
 
+![DealSpy](Screenshot 2025-12-26 165245.png)
+
 
 
 Track product prices across e-commerce sites and get alerts on price drops. Built with Next.js, Firecrawl, and Supabase.
