@@ -1,7 +1,7 @@
 # DealSpy - Smart Product Price Tracker
 ### Check out live here - https://dodealspy.vercel.app/
 
-![DealSpy](Screenshot 2025-12-26 165245.png)
+![DealSpy](./public/img.png)
 
 
 
